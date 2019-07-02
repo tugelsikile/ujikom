@@ -1,0 +1,41 @@
+body{
+    background:#CCC;
+}
+.header{
+    position: fixed;top:0;left:0;right:0;padding:10px;background:#0b93d5;
+}
+.inner{
+
+}
+.header-status{
+    background:rgba(0,0,0,.5);width:200px; margin-top:-10px;margin-right:-10px;margin-bottom:-10px;padding:10px;color:#FFF;
+    font-size:10px;height:73px;text-align:center;
+}
+.header-status a{
+    color:#FFF; text-decoration:none;font-weight:bold;margin:auto;
+}
+.body{
+    margin:90px 20px 20px 20px;border:solid 1px #ccc;background:#FFF;
+}
+.body-header{
+    border-bottom:solid 1px #CCC; padding:15px;
+}
+.body-footer{
+    border-top:solid 1px #CCC; padding:15px;
+}
+.nomor-soal{
+    font-size:14px;
+}
+.timer-wrapper{
+    font-weight:bold; background:rgb(11,147,213);float:right;margin-top:-15px;margin-right:-15px;padding:15px;color:#FFF;width:150px;
+    text-align:center;
+}
+.body-content{
+    padding:15px 20px 15px 20px;min-height:300px;
+}
+.btn-flat{
+    border-radius:0;
+}
+.copyright{
+    padding:30px 20px 15px 20px; text-align:right;
+}
